@@ -25,12 +25,12 @@ The project contains four main sections:
 1. **Employee List**  
    Stores employee master data including Employee ID, Employee Name, Department, Shift Start, and Shift End.
 
-   ![Employee List](screenshots/employee list.jpg)
+   ![Employee List](screenshots/employee_list.jpg)
 
 3. **Attendance Entry Form**  
    Used to enter daily attendance information.
 
-   ![Attendance Form](screenshots/attendance form.jpg)
+   ![Attendance Form](screenshots/attendance_form.jpg)
 
 5. **Attendance Database**  
    Stores all submitted attendance records in a structured format.
@@ -41,6 +41,10 @@ The project contains four main sections:
    Provides summary insights using KPI cards and charts.
 
    ![Attendance Form](screenshots/dashboard.jpg)
+
+## Project Documentation (PDF)
+
+[Project Documentation (PDF)](docs/Employee_Attendance_Automation_System.pdf)
 
 ## Live Demo
 
